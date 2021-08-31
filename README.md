@@ -8,4 +8,4 @@
 
 ## Chapter 1
 
-[SICP Chapter 1.1 The Elements of Programming](https://hackmd.io/3wCD5ZgzR-C-IOSbA4V1UA)
+[SICP 1.1 The Elements of Programming](https://hackmd.io/3wCD5ZgzR-C-IOSbA4V1UA)
