@@ -15,3 +15,4 @@
 ## Chapter 2 - Building Abstractions with Data
 
 * [SICP 2.1 Introduction to Data Abstraction](https://hackmd.io/5zmD1sR-QPqJ070J-mPCwQ)
+* [SICP 2.2 Hierarchical Data and the Closure Property](https://hackmd.io/1LVb5vGmTJ2FhpvBrM7KrQ)
