@@ -13,4 +13,3 @@
 
 (square-tree tree)
 
-(map square tree)
