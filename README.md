@@ -21,3 +21,4 @@
 
 ## Chapter 3
 * [SICP 3.1 Assignment and Local State](https://hackmd.io/2tGbN4DFRkSfoxhlzQ0pAw)
+* [SICP 3.2 The Environment Model of Evaluation](https://hackmd.io/iZfF8Bg7RUW_uuDHmuA5TA)
