@@ -17,3 +17,7 @@
 * [SICP 2.1 Introduction to Data Abstraction](https://hackmd.io/5zmD1sR-QPqJ070J-mPCwQ)
 * [SICP 2.2 Hierarchical Data and the Closure Property](https://hackmd.io/1LVb5vGmTJ2FhpvBrM7KrQ) 
 * [SICP 2.3 Symbolic Data](https://hackmd.io/8avXk6PdSM615DOgpC8D_w)
+2.4, 2.5
+
+## Chapter 3
+* [SICP 3.1 Assignment and Local State](https://hackmd.io/2tGbN4DFRkSfoxhlzQ0pAw)
