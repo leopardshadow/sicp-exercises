@@ -24,3 +24,4 @@
 * [SICP 3.2 The Environment Model of Evaluation](https://hackmd.io/iZfF8Bg7RUW_uuDHmuA5TA)
 * [SICP 3.3 Modeling with Mutable Data](https://hackmd.io/Azh-6OKOQxySPPXdwVrzEg)
 * [SICP 3.4 Concurrency: Time Is of the Essence](https://hackmd.io/W4O2mjEZT928vj8_BJA7jQ)
+* [SICP 3.5 Streams](https://hackmd.io/tDCEXmGWQlqCIkP8q-f38Q)
